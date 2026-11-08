@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/integritee/commit/7a458b3ba6f9eb2ce1bd4bebfd4e151783ca8baf",
       "git:hexsha": "7a458b3ba6f9eb2ce1bd4bebfd4e151783ca8baf",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.0.21"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.0.21",
+      "repolex:parsedAt": "2026-11-08T06:38:23.021089+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cohere-ai/integritee/commit/d05db83e215d5ff6a5b8bccee4c3d0844391d447",
