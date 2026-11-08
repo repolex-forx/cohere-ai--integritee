@@ -1,0 +1,45 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/cohere-ai/integritee/commit/7a458b3ba6f9eb2ce1bd4bebfd4e151783ca8baf",
+  "@type": "git:Commit",
+  "git:hexsha": "7a458b3ba6f9eb2ce1bd4bebfd4e151783ca8baf",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/cohere-ai/integritee"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/7a458b3ba6f9eb2ce1bd4bebfd4e151783ca8baf.nq.gz",
+      "repolex:graphFileSize": 61655
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 124443
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 1714
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 5178
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 91727
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-08T06:35:03.126331+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "v0.0.21"
+}
